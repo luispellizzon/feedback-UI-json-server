@@ -12,6 +12,10 @@ This is a feedback app project using a Javascript library called React to build 
 - Reviews counter
 
 <img width="1000" alt="Screenshot 2022-08-03 at 13 04 29" src="https://user-images.githubusercontent.com/92530249/182606770-5d6c038e-f730-4d64-99de-b936bc30a709.png">
+<img width="1000" alt="Screenshot 2022-08-03 at 13 27 41" src="https://user-images.githubusercontent.com/92530249/182607560-ab87853a-6c2c-4e92-a859-40afcfd06ba7.png">
+
+<img width="1000" alt="Screenshot 2022-08-03 at 13 29 09" src="https://user-images.githubusercontent.com/92530249/182607871-7577c5a7-5367-41fc-a29d-050849b8832e.png">
+
 
 
 ## Concepts used to create:
