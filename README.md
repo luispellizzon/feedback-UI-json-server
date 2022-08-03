@@ -25,10 +25,9 @@ This is a feedback app project using a Javascript library called React to build 
 - Components, Forms, Validation & Simple Animation using a package called Framer-motion
 
 ## To run
-``
+```
 git clone git@github.com:lhpellizzon/Feedback-UI.git
 cd Feedback-UI
 npm install
 npm start
-
-``
+```
