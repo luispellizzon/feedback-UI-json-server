@@ -33,5 +33,5 @@ You can check it out here: https://teal-kringle-964566.netlify.app
 git clone git@github.com:lhpellizzon/Feedback-UI.git
 cd Feedback-UI
 npm install
-npm start
+npm run dev (to run both front-end and json-server mock back-end)
 ```
