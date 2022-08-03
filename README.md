@@ -2,6 +2,10 @@
 
 This is a feedback app project using a Javascript library called React to build the app interface.
 
+You can check it out here: https://teal-kringle-964566.netlify.app
+
+
+
 ## Features
 - Write a review and select a number from 1 to 10 as a rate.
 - Real-time validation:
