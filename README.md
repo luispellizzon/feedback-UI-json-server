@@ -6,12 +6,12 @@ You can check it out here: https://teal-kringle-964566.netlify.app
 
 
 
-## Features
-- Write a review and select a number from 1 to 10 as a rate.
+## Features:
+- Write reviews and select a number from 1 to 10 to rate the service/product.
 - Real-time validation:
   - The review can`t be under 10 characters, otherwise a message will appear and the button Send will remain disabled.
 - Editing review 
-- Route to go to about page after clicking the ? icon, and route to go to main page if clicked on Feedback UI title or back to home page button
+- Route to go to about page after clicking the ? icon, and route to go to main page if clicked on Feedback UI title  or back to home page button
 - Average Rating
 - Reviews counter
 
@@ -22,13 +22,13 @@ You can check it out here: https://teal-kringle-964566.netlify.app
 
 
 
-## Concepts used to create:
+## Concepts:
 - Hooks (useState, useContext, useEffect)
 - Context API ( managing Global State )
 - Routes & Links 
 - Components, Forms, Validation & Simple Animation using a package called Framer-motion
 
-## To run
+## To run:
 ```
 git clone git@github.com:lhpellizzon/Feedback-UI.git
 cd Feedback-UI
