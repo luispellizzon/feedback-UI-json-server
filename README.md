@@ -2,7 +2,7 @@
 
 This is a feedback app project using a Javascript library called React to build the app interface.
 
-You can check it out here: https://teal-kringle-964566.netlify.app
+You can check it out here: 
 
 
 
@@ -30,8 +30,8 @@ You can check it out here: https://teal-kringle-964566.netlify.app
 
 ## To run:
 ```
-git clone git@github.com:lhpellizzon/Feedback-UI.git
-cd Feedback-UI
+git clone git@github.com:lhpellizzon/feedback-UI.git
+cd feedback-UI
 npm install
 npm run dev (to run both front-end and json-server mock back-end)
 ```
