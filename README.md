@@ -34,7 +34,7 @@ You can check the DEMO here: https://peppy-unicorn-894eab.netlify.app/
 
 ## To run:
 ```
-git clone git@github.com:lhpellizzon/feedback-UI.git
+git clone git@github.com:lhpellizzon/feedback-UI-json-server.git
 cd feedback-UI
 npm install
 npm run dev (to run both front-end and json-server mock back-end)
