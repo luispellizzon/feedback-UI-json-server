@@ -2,7 +2,7 @@
 
 This is a feedback app project using a Javascript library called React to build the app interface.
 
-You can check the DEMO here: 
+You can check the DEMO here: https://peppy-unicorn-894eab.netlify.app/
 
 ## New Features: Json-server back-end
 - It is a NPM package created for front-end developers to create a quick back-end for prototyping and mocking taking advantage of a full (fake) REST API.
